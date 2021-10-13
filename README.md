@@ -1,5 +1,5 @@
-# new_project
-### Exercicíos Vue - Curso Vue JS na prática - Prof Igor Souto
+# Exercicios_Vue
+### Curso Vue JS na prática - Prof Igor Souto
 
 ## Project setup
 ```
